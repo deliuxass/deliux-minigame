@@ -13,3 +13,4 @@ Debug Command:
 
 The debugdailyprize command allows administrators to manually trigger the prize awarding process.
 This is useful for testing and verifying that the system is functioning correctly.
+![bxrso56](https://github.com/deliuxass/deliux-minigame/assets/174446310/7b15948f-9d10-45fe-a1cb-9d96a1048ef1)
