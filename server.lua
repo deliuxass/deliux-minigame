@@ -1,7 +1,7 @@
 local config = {
     prizeAmount = 10000,
     discordWebhook = 'https://canary.discord.com/api/webhooks/1258855492848062575/kVoyX1zramSWXIkkkVZcG-7gIRpL0YIiZNba-GwW2RnQLE_WZ_LGVyON0UZ2zHe4UrEH',
-    debug = true
+    debug = false
 }
 
 local function awardDailyPrize()
